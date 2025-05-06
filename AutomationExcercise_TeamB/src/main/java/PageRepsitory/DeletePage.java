@@ -16,6 +16,11 @@ public class DeletePage {
 		PageFactory.initElements(driver, this);
 	}
 
+//		public WebElement getdeletevisible() {
+//			return deletevisible;
+		// }
+	
+
 	// Utilization
 	public WebElement getConDelete() {
 		return conDelete;
