@@ -26,10 +26,11 @@ import org.openqa.selenium.WebDriver;
 			return getdeletebutton();
 		}
 
-		public WebElement getdeletevisible() {
-			return deletevisible;
-		}
-		
+//		public WebElement getdeletevisible() {
+//			return deletevisible;
+	//	}
 	}
+		
+	
 
 
